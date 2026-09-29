@@ -1,0 +1,6 @@
+{
+  "name": "Vương Quốc Số Tự Nhiên - Toán 6 Kết Nối Tri Thức",
+  "description": "Trò chơi học tập ôn tập Số Tự Nhiên Lớp 6 theo bộ sách Kết Nối Tri Thức với trắc nghiệm tương tác, cú Pi-Pi dẫn dắt, giải thích chi tiết, bảng xếp hạng thời gian thực và quà tặng ảo hấp dẫn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
